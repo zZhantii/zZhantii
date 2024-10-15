@@ -2,8 +2,8 @@
 <h1>Hello, I'm Santiago Lozada<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
-I'm a web application student, full-stack programmer, I have experience in back-end, front-end and database. Personally, I am specialized in the back-end for programming
-the functionalities of a website or application, I'm always willing to improve professionally and gain experience for the working world.
+<p>I'm a web application student, full-stack programmer, I have experience in back-end, front-end and database. Personally, I am specialized in the back-end for programming
+the functionalities of a website or application, I'm always willing to improve professionally and gain experience for the working world.</p>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills 
 
