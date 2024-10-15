@@ -67,7 +67,8 @@ the functionalities of a website or application, I'm always willing to improve p
 <br>
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 <p align="center">
-<a href="https://github.com/zZhantii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zZhantii&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats"/></a>
+  <a href="https://github.com/zZhantii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zZhantii&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats"/></a>
+</p>
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true">
