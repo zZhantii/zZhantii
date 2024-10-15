@@ -71,4 +71,4 @@ the functionalities of a website or application, I'm always willing to improve p
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true">
-Credit: [zZhantii](https://github.com/zZhantii)
+Credit: <a href="https://github.com/zZhantii">zZhantii</a>
