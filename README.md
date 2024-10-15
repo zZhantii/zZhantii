@@ -72,12 +72,12 @@ the functionalities of a website or application, I'm always willing to improve p
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 <p align="center">
 <a href="https://github.com/zZhantii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zZhantii&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats"/></a>
-
 <br>
 
 <h3 align="center">Visitor's count :eyes:</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{zZhantii}/count.svg" alt="AnhellO :: Visitor's Count"/>
+</p>
 
 <br>
 
