@@ -37,15 +37,15 @@ the functionalities of a website or application, I'm always willing to improve p
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-0960ae?style=for-the-badge&logo=git&logoColor=black">
-  <img src="https://img.shields.io/badge/Xampp-0960ae?style=for-the-badge&logo=xampp&logoColor=black">
-  <img src="https://img.shields.io/badge/github-0960ae?style=for-the-badge&logo=github&logoColor=black">
-  <img src="https://img.shields.io/badge/figma-0960ae?style=for-the-badge&logo=figma&logoColor=black">
-  <img src="https://img.shields.io/badge/Canva-0960ae?style=for-the-badge&logo=Canva&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-0960ae?style=for-the-badge&logo=docker&logoColor=black">
-  <img src="https://img.shields.io/badge/Trello-0960ae?style=for-the-badge&logo=trello&logoColor=black">
-  <img src="https://img.shields.io/badge/gitlab-0960ae?style=for-the-badge&logo=gitlab&logoColor=black">
-  <img src="https://img.shields.io/badge/.NET-0960ae?style=for-the-badge&logo=.net&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-0960ae?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-0960ae?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/github-0960ae?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-0960ae?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-0960ae?style=for-the-badge&logo=Canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0960ae?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0960ae?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-0960ae?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-0960ae?style=for-the-badge&logo=.net&logoColor=white">
 </span>
 
 <br>
