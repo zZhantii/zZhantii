@@ -51,36 +51,28 @@ the functionalities of a website or application, I'm always willing to improve p
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div id="user-content-toc">
   <ul align="center">
     <h2 style="display: inline-block"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">Connect with me on🤝</h2>
   </ul>
 </div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-lozada-551783331/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://discordapp.com/users/758051003584086128" ><img src="https://img.shields.io/badge/discord-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue"></a>
+  <a href="https://discordapp.com/users/758051003584086128"><img src="https://img.shields.io/badge/discord-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue"></a>
   <a href="mailto:santiagoolozadab@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
 <br>
-
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 <p align="center">
 <a href="https://github.com/zZhantii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zZhantii&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats"/></a>
 <br>
-
 <h3 align="center">Visitor's count :eyes:</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{zZhantii}/count.svg" alt="AnhellO :: Visitor's Count"/>
 </p>
-
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 Credit: [zZhantii](https://github.com/zZhantii)
