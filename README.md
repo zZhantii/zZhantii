@@ -1,16 +1,86 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1>Hello, I'm Santiago Lozada<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**zZhantii/zZhantii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
+I'm a web application student, full-stack programmer, I have experience in back-end, front-end and database. Personally, I am specialized in the back-end for programming
+the functionalities of a website or application, I'm always willing to improve professionally and gain experience for the working world.
 
-Here are some ideas to get you started:
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/Python-CAD5DF?style=for-the-badge&logo=python&logoColor=black&Color=black">
+  <img src="https://img.shields.io/badge/Java-CAD5DF?style=for-the-badge&logo=java&logoColor=black&Color=black">
+  <img src="https://img.shields.io/badge/c%23-CAD5DF?style=for-the-badge&logo=csharp&logoColor=black&Color=black">
+</span>
+
+<h4> Front-End Development </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-B7C6D4?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-B7C6D4?style=for-the-badge&logo=css3&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-B7C6D4?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-B7C6D4?style=for-the-badge&logo=php&logoColor=black">
+</span>
+
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-9AAFC2?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-9AAFC2?style=for-the-badge&logo=mongodb&logoColor=black">
+  <img src="https://img.shields.io/badge/Oracle-9AAFC2?style=for-the-badge&logo=oracle&logoColor=black">
+</span>
+
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-8FA7BB?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+<img src="https://img.shields.io/badge/VisualStudio-8FA7BB?style=for-the-badge&logo=visual-studio&logoColor=black">
+</span>
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-7D9AB3?style=for-the-badge&logo=git&logoColor=black">
+  <img src="https://img.shields.io/badge/Xampp-7D9AB3?style=for-the-badge&logo=xampp&logoColor=black">
+  <img src="https://img.shields.io/badge/github-7D9AB3?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/figma-7D9AB3?style=for-the-badge&logo=figma&logoColor=black">
+  <img src="https://img.shields.io/badge/Canva-7D9AB3?style=for-the-badge&logo=Canva&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-7D9AB3?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Trello-7D9AB3?style=for-the-badge&logo=trello&logoColor=black">
+  <img src="https://img.shields.io/badge/gitlab-7D9AB3?style=for-the-badge&logo=gitlab&logoColor=black">
+  <img src="https://img.shields.io/badge/.NET-7D9AB3?style=for-the-badge&logo=.net&logoColor=black">
+</span>
+
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">Connect with me on🤝</h2>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiago-lozada-551783331/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://discordapp.com/users/758051003584086128" ><img src="https://img.shields.io/badge/discord-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue"></a>
+  <a href="mailto:santiagoolozadab@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<br>
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
+<p align="center">
+<a href="https://github.com/zZhantii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zZhantii&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats"/></a>
+
+<br>
+
+<h3 align="center">Visitor's count :eyes:</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{zZhantii}/count.svg" alt="AnhellO :: Visitor's Count"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+Credit: [zZhantii](https://github.com/zZhantii)
