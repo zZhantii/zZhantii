@@ -16,36 +16,36 @@ the functionalities of a website or application, I'm always willing to improve p
 
 <h4> Front-End Development </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-B7C6D4?style=for-the-badge&logo=html5&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS3-B7C6D4?style=for-the-badge&logo=css3&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-B7C6D4?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-B7C6D4?style=for-the-badge&logo=php&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-b8d1e7?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-b8d1e7?style=for-the-badge&logo=css3&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-b8d1e7?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-b8d1e7?style=for-the-badge&logo=php&logoColor=black">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-9AAFC2?style=for-the-badge&logo=mysql&logoColor=black">
-  <img src="https://img.shields.io/badge/MongoDB-9AAFC2?style=for-the-badge&logo=mongodb&logoColor=black">
-  <img src="https://img.shields.io/badge/Oracle-9AAFC2?style=for-the-badge&logo=oracle&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-8fbfec?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-8fbfec?style=for-the-badge&logo=mongodb&logoColor=black">
+  <img src="https://img.shields.io/badge/Oracle-8fbfec?style=for-the-badge&logo=oracle&logoColor=black">
 </span>
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-8FA7BB?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
-<img src="https://img.shields.io/badge/VisualStudio-8FA7BB?style=for-the-badge&logo=visual-studio&logoColor=black">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-64a6e3?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+<img src="https://img.shields.io/badge/VisualStudio-64a6e3?style=for-the-badge&logo=visual-studio&logoColor=black">
 </span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-7D9AB3?style=for-the-badge&logo=git&logoColor=black">
-  <img src="https://img.shields.io/badge/Xampp-7D9AB3?style=for-the-badge&logo=xampp&logoColor=black">
-  <img src="https://img.shields.io/badge/github-7D9AB3?style=for-the-badge&logo=github&logoColor=black">
-  <img src="https://img.shields.io/badge/figma-7D9AB3?style=for-the-badge&logo=figma&logoColor=black">
-  <img src="https://img.shields.io/badge/Canva-7D9AB3?style=for-the-badge&logo=Canva&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-7D9AB3?style=for-the-badge&logo=docker&logoColor=black">
-  <img src="https://img.shields.io/badge/Trello-7D9AB3?style=for-the-badge&logo=trello&logoColor=black">
-  <img src="https://img.shields.io/badge/gitlab-7D9AB3?style=for-the-badge&logo=gitlab&logoColor=black">
-  <img src="https://img.shields.io/badge/.NET-7D9AB3?style=for-the-badge&logo=.net&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-0960ae?style=for-the-badge&logo=git&logoColor=black">
+  <img src="https://img.shields.io/badge/Xampp-0960ae?style=for-the-badge&logo=xampp&logoColor=black">
+  <img src="https://img.shields.io/badge/github-0960ae?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/figma-0960ae?style=for-the-badge&logo=figma&logoColor=black">
+  <img src="https://img.shields.io/badge/Canva-0960ae?style=for-the-badge&logo=Canva&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-0960ae?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Trello-0960ae?style=for-the-badge&logo=trello&logoColor=black">
+  <img src="https://img.shields.io/badge/gitlab-0960ae?style=for-the-badge&logo=gitlab&logoColor=black">
+  <img src="https://img.shields.io/badge/.NET-0960ae?style=for-the-badge&logo=.net&logoColor=black">
 </span>
 
 <br>
