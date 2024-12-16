@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/MySQL-8fbfec?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-8fbfec?style=for-the-badge&logo=mongodb&logoColor=black">
   <img src="https://img.shields.io/badge/Oracle-8fbfec?style=for-the-badge&logo=oracle&logoColor=black">
+  <img src="https://img.shields.io/badge/dbeaver-8fbfec?style=for-the-badge&logo=dbeaver&logoColor=black">
 </span>
 
 <h4> IDE </h4>
