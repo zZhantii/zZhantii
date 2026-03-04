@@ -8,7 +8,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" alt="Skills GIF"> My Skills 
 
-<h4> Languages </h4>
+<h4> Back-End Development </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-CAD5DF?style=for-the-badge&logo=python&logoColor=black&Color=black">
   <img src="https://img.shields.io/badge/Java-CAD5DF?style=for-the-badge&logo=java&logoColor=black&Color=black">
@@ -17,24 +17,16 @@
 
 <h4> Front-End Development </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-b8d1e7?style=for-the-badge&logo=html5&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS3-b8d1e7?style=for-the-badge&logo=css3&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-b8d1e7?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-b8d1e7?style=for-the-badge&logo=php&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black">
+  <img src="ttps://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=black">
 </span>
 
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-8fbfec?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-8fbfec?style=for-the-badge&logo=mongodb&logoColor=black">
-  <img src="https://img.shields.io/badge/Oracle-8fbfec?style=for-the-badge&logo=oracle&logoColor=black">
-  <img src="https://img.shields.io/badge/dbeaver-8fbfec?style=for-the-badge&logo=dbeaver&logoColor=black">
-</span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-64a6e3?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
-<img src="https://img.shields.io/badge/VisualStudio-64a6e3?style=for-the-badge&logo=visual-studio&logoColor=black">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -43,10 +35,7 @@
   <img src="https://img.shields.io/badge/Xampp-0960ae?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/github-0960ae?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-0960ae?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-0960ae?style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-0960ae?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0960ae?style=for-the-badge&logo=trello&logoColor=white">
-  <img src="https://img.shields.io/badge/gitlab-0960ae?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-0960ae?style=for-the-badge&logo=.net&logoColor=white">
 </span>
 
