@@ -19,8 +19,8 @@
 <span> 
   <img src="https://img.shields.io/badge/JavaScript-b8d1e7?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-b8d1e7?style=for-the-badge&logo=php&logoColor=black">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black">
-  <img src="ttps://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logo=vuejs&logoColor=black">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logo=laravel&logoColor=black">
 </span>
 
 <h4> Databases </h4>
