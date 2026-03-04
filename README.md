@@ -56,11 +56,6 @@
   <a href="mailto:santiagoolozadab@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <br>
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
-<p align="center">
-  <a href="https://github.com/zZhantii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zZhantii&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats"/></a>
-</p>
-<br>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true">
 Credit: <a href="https://github.com/zZhantii">zZhantii</a>
