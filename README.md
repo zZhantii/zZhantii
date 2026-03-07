@@ -59,7 +59,7 @@ Soy un desarrollador Full-Stack apasionado por crear soluciones tecnológicas re
 | 🌐 **Portfolio** | [santiagolozadaportfolio.vercel.app](https://santiagolozadaportfolio.vercel.app/) |
 | 💼 **LinkedIn** | [santiago-lozada-551783331](https://www.linkedin.com/in/santiago-lozada-551783331/) |
 | 📧 **Email** | [santiagoolozadab@gmail.com](mailto:santiagoolozadab@gmail.com) |
-| 🐙 **GitHub** | [tu-usuario](https://github.com/tuusuario) |
+| 🐙 **GitHub** | [zZhantii]([https://github.com/tuusuario](https://github.com/zZhantii)) |
 
 ---
 
