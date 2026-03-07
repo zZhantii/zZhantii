@@ -1,75 +1,66 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="barra">
-<h1>Hi, I'm Santiago Lozada<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p>
-  Full-Stack Web Developer specialized in **Vue.js and Laravel**
-  <br>
-  I build modern web applications with scalable backends, clean architecture and efficient databases.
-</p>
+![Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me GIF"> About me
-<p>
-  I’m a full-stack developer focused on building modern web applications.  
-  My main stack is **Vue.js on the frontend and Laravel on the backend**, allowing me to develop complete products from idea to
-  deployment.
-  
-  I completed a Higher Technical Degree in **Web Application Development** and I'm currently studying **Computer Engineering**.
-  
-  I enjoy solving real problems through code, designing scalable architectures, and continuously improving my development skills through
-  personal projects.
-  
-  Currently looking for my **first opportunity as a software developer**.
-</p>
+# 👋 Santiago Lozada
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" alt="Skills GIF"> Tech Stack 
+**Full-Stack Web Developer** | Vue.js & Laravel Specialist
 
-<h4> Front-End Development </h4>
-<span> 
-  <img src="https://img.shields.io/badge/JavaScript-b8d1e7?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Vue.js-b8d1e7?style=for-the-badge&logo=vuedotjs&logoColor=black">
-</span>
+Construyo aplicaciones web modernas con arquitectura escalable, backends robustos y bases de datos eficientes.
 
-<h4> Back-End Development </h4>
-<span> 
-  <img src="https://img.shields.io/badge/PHP-CAD5DF?style=for-the-badge&logo=php&logoColor=black">
-  <img src="https://img.shields.io/badge/Laravel-CAD5DF?style=for-the-badge&logo=laravel&logoColor=black">
-</span>
+---
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-8fbfec?style=for-the-badge&logo=mysql&logoColor=black">
-  <img src="https://img.shields.io/badge/MongoDB-8fbfec?style=for-the-badge&logo=mongodb&logoColor=black">
-</span>
+## 🎯 Sobre mí
 
-<h4>Other Languages</h4>
-<span>
-  <img src="https://img.shields.io/badge/Python-CAD5DF?style=for-the-badge&logo=python&logoColor=black&Color=black">
-  <img src="https://img.shields.io/badge/Java-CAD5DF?style=for-the-badge&logo=java&logoColor=black&Color=black">
-</span>
+Soy un desarrollador Full-Stack apasionado por crear soluciones tecnológicas reales. Mi especialización en **Vue.js** (frontend) y **Laravel** (backend) me permite desarrollar productos completos desde la idea hasta el deployment.
 
-<h4>Tools</h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-0960ae?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-0960ae?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/github-0960ae?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-0960ae?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-0960ae?style=for-the-badge&logo=docker&logoColor=white">
-</span>
+- 📚 **Formación**: Grado Superior en Desarrollo de Aplicaciones Web + Ingeniería Informática en curso
+- 💡 **Enfoque**: Arquitectura escalable, código limpio y buenas prácticas
+- 🚀 **Objetivo**: Busco mi **primera oportunidad como desarrollador de software**
 
-<br>
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" alt="Connect with me GIF">Contact</h2>
-  </ul>
-</div>
+## 🛠️ Tech Stack
 
-<div>
-  <p>Porfolio:<a href="https://santiagolozadaportfolio.vercel.app/"><a></p>
-  <p>LinkedIn:<a href="https://www.linkedin.com/in/santiago-lozada-551783331/"></a></p>
-  <p>Email:<a href="mailto:santiagoolozadab@gmail.com"></a></p>
-</div>
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true">
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-047857?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Otros Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Herramientas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&theme=dark&show_icons=true)
+
+---
+
+## 🔗 Conecta conmigo
+
+| Plataforma | Enlace |
+|-----------|--------|
+| 🌐 **Portfolio** | [santiagolozadaportfolio.vercel.app](https://santiagolozadaportfolio.vercel.app/) |
+| 💼 **LinkedIn** | [santiago-lozada-551783331](https://www.linkedin.com/in/santiago-lozada-551783331/) |
+| 📧 **Email** | [santiagoolozadab@gmail.com](mailto:santiagoolozadab@gmail.com) |
+| 🐙 **GitHub** | [tu-usuario](https://github.com/tuusuario) |
+
+---
+
+![Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
