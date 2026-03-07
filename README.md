@@ -48,7 +48,7 @@ Soy un desarrollador Full-Stack apasionado por crear soluciones tecnológicas re
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zZhantii&theme=dark&show_icons=true)
 
 ---
 
